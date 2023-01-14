@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on ta1m1kam times</title>
+    <link>/posts/</link>
+    <description>Recent content in Blog on ta1m1kam times</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>ぎょぎょぎょ!! ぎょぎょぎょ!! ぎょぎょぎょ!! gyogyogyo!!  ぎょぎょぎょ!!
+  ぎょぎょぎょ!! ぎょぎょぎょ!!  ぎょぎょぎょ!!</description>
+    </item>
+    
+  </channel>
+</rss>
