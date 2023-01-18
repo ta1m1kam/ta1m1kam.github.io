@@ -8,6 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>grass-generator</title>
+      <link>/posts/grass-generator/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/grass-generator/</guid>
+      <description>作った経緯 Githubではコントリビュートに応じて草が生える機能があります。 それを応用した自身のアプリケーションが作成したくて作りました。 canvasとsvgのどちらかで生成することができて、label等もカスタマイズ可能でです。
+npm packageとしてnpm registryに登録してあるのでどなたでも使用可能です。
+grass-generator
+機能 以下のようなjsonデータを取得 or 作成します。
+{ &amp;#34;years&amp;#34;: [ { &amp;#34;year&amp;#34;: &amp;#34;2023&amp;#34;, &amp;#34;total&amp;#34;: 0, &amp;#34;range&amp;#34;: { &amp;#34;start&amp;#34;: &amp;#34;2023-01-01&amp;#34;, &amp;#34;end&amp;#34;: &amp;#34;2023-12-31&amp;#34; } }, { &amp;#34;year&amp;#34;: &amp;#34;2022&amp;#34;, &amp;#34;total&amp;#34;: 360, &amp;#34;range&amp;#34;: { &amp;#34;start&amp;#34;: &amp;#34;2022-01-01&amp;#34;, &amp;#34;end&amp;#34;: &amp;#34;2022-12-31&amp;#34; } } ] } このデータを以下のようにライブラリをimportして、APIを実行するだけです。
+SVG import { drawGrassSvg } from &amp;#39;grass-generator&amp;#39;; drawGrassSvg(document.getElementById(&amp;#39;svg&amp;#39;), { data }); Canvas import { drawGrassCanvas } from &amp;#39;grass-generator&amp;#39;; drawGrassCanvas(document.getElementById(&amp;#39;canvas&amp;#39;), { data }); 今後 これを使ってデイリータスクの進捗計測アプリでも作ろうかなと思います。 以上！さようなら！</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>/posts/hello-world/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
