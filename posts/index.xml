@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on ta1m1kam times</title>
-    <link>/posts/</link>
+    <link>https://ta1m1kam.com/posts/</link>
     <description>Recent content in Blog on ta1m1kam times</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ta1m1kam.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>grass-generator</title>
-      <link>/posts/grass-generator/</link>
+      <link>https://ta1m1kam.com/posts/grass-generator/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/grass-generator/</guid>
+      <guid>https://ta1m1kam.com/posts/grass-generator/</guid>
       <description>作った経緯 Githubではコントリビュートに応じて草が生える機能があります。 それを応用した自身のアプリケーションが作成したくて作りました。 canvasとsvgのどちらかで生成することができて、label等もカスタマイズ可能でです。
 npm packageとしてnpm registryに登録してあるのでどなたでも使用可能です。
 grass-generator
@@ -23,10 +23,10 @@ SVG import { drawGrassSvg } from &amp;#39;grass-generator&amp;#39;; drawGrassSvg
     
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>https://ta1m1kam.com/posts/hello-world/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>https://ta1m1kam.com/posts/hello-world/</guid>
       <description>ぎょぎょぎょ!! ぎょぎょぎょ!! ぎょぎょぎょ!! gyogyogyo!!  ぎょぎょぎょ!!
   ぎょぎょぎょ!! ぎょぎょぎょ!!  ぎょぎょぎょ!!</description>
     </item>

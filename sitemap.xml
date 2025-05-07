@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/grass-generator/</loc>
+    <loc>https://ta1m1kam.com/posts/grass-generator/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://ta1m1kam.com/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/hello-world/</loc>
+    <loc>https://ta1m1kam.com/posts/hello-world/</loc>
     <lastmod>2023-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://ta1m1kam.com/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://ta1m1kam.com/about/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://ta1m1kam.com/categories/</loc>
   </url><url>
-    <loc>/pages/</loc>
+    <loc>https://ta1m1kam.com/pages/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://ta1m1kam.com/tags/</loc>
   </url>
 </urlset>
