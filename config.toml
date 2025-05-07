@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ta1m1kam.com/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
