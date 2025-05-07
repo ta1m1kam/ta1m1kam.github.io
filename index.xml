@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>見たな？ on ta1m1kam times</title>
-    <link>https://ta1m1kam.com/</link>
+    <link>/</link>
     <description>Recent content in 見たな？ on ta1m1kam times</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ta1m1kam.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>grass-generator</title>
-      <link>https://ta1m1kam.com/posts/grass-generator/</link>
+      <link>/posts/grass-generator/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ta1m1kam.com/posts/grass-generator/</guid>
+      <guid>/posts/grass-generator/</guid>
       <description>作った経緯 Githubではコントリビュートに応じて草が生える機能があります。 それを応用した自身のアプリケーションが作成したくて作りました。 canvasとsvgのどちらかで生成することができて、label等もカスタマイズ可能でです。
 npm packageとしてnpm registryに登録してあるのでどなたでも使用可能です。
 grass-generator
@@ -23,20 +23,20 @@ SVG import { drawGrassSvg } from &amp;#39;grass-generator&amp;#39;; drawGrassSvg
     
     <item>
       <title>Hello World</title>
-      <link>https://ta1m1kam.com/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ta1m1kam.com/posts/hello-world/</guid>
+      <guid>/posts/hello-world/</guid>
       <description>ぎょぎょぎょ!! ぎょぎょぎょ!! ぎょぎょぎょ!! gyogyogyo!!  ぎょぎょぎょ!!
   ぎょぎょぎょ!! ぎょぎょぎょ!!  ぎょぎょぎょ!!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ta1m1kam.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ta1m1kam.com/about/</guid>
+      <guid>/about/</guid>
       <description>Hi! I&amp;rsquo;m ta1m1kam.
 ta1m1kam Certificates    基本情報技術者 2014.03  Career Shippio  2022.09 - Frontend Engineer TypeScript, JavaScript, React.js, Ruby, Ruby on Rails, Golang, Graph QL, Firebase, AWS, LaunchDarkly  Yahoo  2020.04 - 2022.09 Software Engineer at PayPay Card/Paylater TypeScript, JavaScript, Nuxt.js, Vue.js, Java, SprintBoot, AWS, Python(Lambda), PCIDSS  Internship CrowdWorks  2017.12 - 2019.04 Software Engineer at Crowdtech Ruby, Ruby on Rails, React.js  Cookpad  2018.</description>
     </item>
